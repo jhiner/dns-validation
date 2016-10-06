@@ -26,4 +26,4 @@ dnsvalidation.verifyCNameEntry('login.somedomain.io', 'tenant.somedomain.com', f
 
 ## License
 
-tbd
+This project is licensed under the MIT license. See the [LICENSE](LICENSE.txt) file for more info.
